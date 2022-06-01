@@ -1,0 +1,11 @@
+baseURL = 'http://diegodelemos.github.io/solid-train/'
+languageCode = 'en-us'
+title = 'Solid rain'
+theme = "ananke"
+
+[params]
+  author = "Diego Rodríguez Rodríguez"
+  description = "Stories."
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-green"
+  recent_posts_number = 3
